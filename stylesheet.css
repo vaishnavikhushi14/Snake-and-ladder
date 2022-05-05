@@ -14,7 +14,7 @@ position: relative;
 
 .mainbox{
 
-border:15px solid #bffff0;
+
 
 width: 700px;
 height: 774px;
@@ -31,10 +31,6 @@ flex-direction: column-reverse;
 }
 
 
-#topimage{
-  margin-top: 20px;
-    padding-left: 350px;
-}
 
 #topletter{
   font-family: "Comic Sans MS", cursive, sans-serif;
@@ -107,4 +103,13 @@ body{
 
 span{
   position: absolute;
+}
+
+.headimage
+{
+padding-left: 320px;
+}
+
+.maindiv{
+  display :inline;
 }
